@@ -1,6 +1,6 @@
 package main
 
-import "github.com/qingdi/gocode/ch6"
+import "github.com/qingdi/gocode/ch7"
 
 func main() {
 	//ch1.Echo()
@@ -30,5 +30,8 @@ func main() {
 	//ch5.Ts()
 	//ch5.Fl3()
 	//ch5.Df2()
-	ch6.Cp1()
+	//ch6.Cp1()
+	//ch7.Pf()
+	//ch7.Sl3()
+	ch7.H3()
 }
